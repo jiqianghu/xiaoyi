@@ -11,8 +11,8 @@
 
 ## 分润系统
 
+* [云服务报表](fen-run-xi-tong/yun-fu-wu-bao-biao.md)
 * [分润比例管理](fen-run-xi-tong/fen-run-bi-li-guan-li.md)
 * [设备列表](fen-run-xi-tong/she-bei-lie-biao.md)
 * [设备上传记录](fen-run-xi-tong/she-bei-shang-chuan-ji-lu.md)
-* [云服务报表](fen-run-xi-tong/yun-fu-wu-bao-biao.md)
 
