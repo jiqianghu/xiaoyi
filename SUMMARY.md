@@ -2,7 +2,7 @@
 
 * [更新日志](README.md)
 
-## SIM卡管理 <a id="sim-ka-guan-li-1"></a>
+## SIM卡管理
 
 * [SIM卡列表](sim-ka-guan-li-1/sim-ka-lie-biao.md)
 * [SIM卡上传记录](sim-ka-guan-li-1/sim-ka-shang-chuan-ji-lu.md)

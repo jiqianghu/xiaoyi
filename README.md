@@ -13,9 +13,7 @@ description: 发布开放平台的更新日志
 
 ### Fixed
 
-* 
-### Changed
-
+* ### Changed
 * 平台添加用户功能；
 
 ## Beta V0.1 - 2020-10-15
