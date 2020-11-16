@@ -30,7 +30,13 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
+#### 管理SIM卡列表
+您可通过本页面管理所有项目。可点击进入项目，开始编辑模板或撰写文章。也可查看「生成记录」，同时实现调用。
+
+![](/assets/SIM ka .png)
 ## SIM卡上传记录
+
+
 
 ## SIM卡设备列表
 
