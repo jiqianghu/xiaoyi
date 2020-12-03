@@ -13,11 +13,11 @@ description: 分销商管理，查看云服务报表、设备列表等
 ## 云服务报表
 您可通过本页面查看相关 **云服务订单** 的具体信息，并且可以点击「订单量」查看订单详情。
 
-![](/assets/Cloud Service.png)
+![](/assets/Cloud-Service.png)
 ## 分销商管理
 您可通过本页面查看相关 **分销商** 的具体信息。
 
-![](/assets/distributor manager.png)
+![](/assets/distributor-manager.png)
 ## 厂商管理
 您可通过本页面查看相关 **厂商** 的具体信息。
 
@@ -25,8 +25,8 @@ description: 分销商管理，查看云服务报表、设备列表等
 ## 设备列表
 您可通过本页面查看相关 **设备** 的具体信息。
 
-![](/assets/device list.png)
+![](/assets/device-list.png)
 ## 设备上传记录
 您可点击「下载模板」，按要求上传 **设备** 相关信息。在本页面，您还可以看到具体的文件上传状态，对于失败的文件，可点击「失败原因查询」进行查看。
 
-![](/assets/Device upload record.png)
+![](/assets/Device-upload-record.png)
